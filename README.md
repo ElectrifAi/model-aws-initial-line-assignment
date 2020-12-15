@@ -8,3 +8,4 @@ Determine the optimal initial credit line to assign customers with the highest p
 
 SKU: INTLL-PS-CCC-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-e3fdsa3q3ll3o
